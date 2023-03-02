@@ -7,7 +7,7 @@ function App() {
         hello Darkom
       </h2>
       <h3>
-        Tabon mok
+        shit update
       </h3>
     </>
   )
